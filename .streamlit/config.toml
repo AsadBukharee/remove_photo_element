@@ -1,5 +1,6 @@
 [server]
-maxUploadSize = 20
+maxUploadSize = 10
+fileWatcherType = "poll"
 
 [theme]
 base="light"
